@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library= sneakyVisibility
+X-Python-2-Compatible=false
+X-Krita-Manual=manual/Manual.html
+Name=Sneaky Visibility
+Comment=changes visibility of a layer without adding to the undo stack
