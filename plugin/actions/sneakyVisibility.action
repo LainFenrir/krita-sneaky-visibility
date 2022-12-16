@@ -9,7 +9,7 @@
         <whatsThis></whatsThis>
         <toolTip> Toggle sneaky layer visibility (works on multiple selected layers) </toolTip>
         <iconText></iconText>
-        <activationFlags>10000</activationFlags>
+        <activationFlags>0</activationFlags>
         <activationConditions>0</activationConditions>
         <shortcut></shortcut>
         <isCheckable>false</isCheckable>
